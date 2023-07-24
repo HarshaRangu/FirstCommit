@@ -5,6 +5,10 @@
 <h2>AWS Session by Shiva</h2>
 <h1>Welcome to GitHUB session by Mr. HarshaVardhan rangu</h1>
 
+
+BUG 101
+//logic to . bug 101 is fixed
+
 <h3> Wel come to bitBucket</h3>
 <h1>Welcome to GitHUB</h1>
 
