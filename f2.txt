@@ -1,2 +1,5 @@
 Welcome to Vtalent!!
 JAVA 23 and 24th GIT Sessions
+
+
+GIT IS GIT
